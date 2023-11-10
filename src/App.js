@@ -9,7 +9,9 @@ function App() {
       <img src="./images/Dhoni.jpg"></img>
       <h2>Born:7 July 1981</h2>
       <h2>Parents: Pan Singh Dhoni, Devaki Devi</h2>
-      <h2>Spouse:Sakshi Dhoni</h2>
+      <h2>Spouse:Sakshi Dhoni</h2> 
+      <h1>Hello All,Welcome to GIT HUB</h1>  
+      <img src="./images/git hub"></img>
     </div>
   );
 }
