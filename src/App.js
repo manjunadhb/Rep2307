@@ -12,6 +12,8 @@ function App() {
       <h2>Spouse:Sakshi Dhoni</h2> 
       <h1>Hello All,Welcome to GIT HUB</h1>  
       <img src="./images/git hub"></img>
+      <h1>FullStck Development By using Javascript Languege</h1>
+      <img src="./images/javascript.jpeg"></img>
     </div>
   );
 }
